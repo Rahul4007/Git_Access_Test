@@ -1,2 +1,2 @@
-# Git_Access_Test
+# Git_Practice
 Testing to access git repo
